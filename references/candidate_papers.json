@@ -1,0 +1,1131 @@
+[
+  {
+    "id": "W2107726111",
+    "title": "Reinforcement Learning: A Survey",
+    "authors": [
+      "Leslie Pack Kaelbling",
+      "Michael L. Littman",
+      "Andrew Moore"
+    ],
+    "year": 1996,
+    "journal": "Journal of Artificial Intelligence Research",
+    "doi_or_url": "https://doi.org/10.1613/jair.301",
+    "citation_count": 8729,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2155968351",
+    "title": "Deep Reinforcement Learning with Double Q-Learning",
+    "authors": [
+      "Hado van Hasselt",
+      "Arthur Guez",
+      "David Silver"
+    ],
+    "year": 2016,
+    "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "doi_or_url": "https://doi.org/10.1609/aaai.v30i1.10295",
+    "citation_count": 3515,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2523153599",
+    "title": "Just-in-Time Adaptive Interventions (JITAIs) in Mobile Health: Key Components and Design Principles for Ongoing Health Behavior Support",
+    "authors": [
+      "Inbal Nahum\u2010Shani",
+      "Shawna N. Smith",
+      "Bonnie Spring",
+      "Linda M. Collins",
+      "Katie Witkiewitz",
+      "Ambuj Tewari",
+      "Susan A. Murphy"
+    ],
+    "year": 2016,
+    "journal": "Annals of Behavioral Medicine",
+    "doi_or_url": "https://doi.org/10.1007/s12160-016-9830-8",
+    "citation_count": 2075,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2106906572",
+    "title": "Liminal Legality: Salvadoran and Guatemalan Immigrants' Lives in the United States",
+    "authors": [
+      "Cecilia Menj\u00edvar"
+    ],
+    "year": 2006,
+    "journal": "American Journal of Sociology",
+    "doi_or_url": "https://doi.org/10.1086/499509",
+    "citation_count": 1272,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3100366369",
+    "title": "An Introduction to Deep Reinforcement Learning",
+    "authors": [
+      "Vincent Fran\u00e7ois-Lavet",
+      "Peter Henderson",
+      "Riashat Islam",
+      "Marc G. Bellemare",
+      "Jo\u00eblle Pineau"
+    ],
+    "year": 2018,
+    "journal": "Foundations and Trends\u00ae in Machine Learning",
+    "doi_or_url": "https://doi.org/10.1561/2200000071",
+    "citation_count": 1221,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2576683119",
+    "title": "Machine learning on big data: Opportunities and challenges",
+    "authors": [
+      "Lina Zhou",
+      "Shimei Pan",
+      "Jianwu Wang",
+      "Athanasios V. Vasilakos"
+    ],
+    "year": 2017,
+    "journal": "Neurocomputing",
+    "doi_or_url": "https://doi.org/10.1016/j.neucom.2017.01.026",
+    "citation_count": 1176,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2951665052",
+    "title": "Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design",
+    "authors": [
+      "Niranjan Srinivas",
+      "Andreas Krause",
+      "Sham M. Kakade",
+      "Matthias Seeger"
+    ],
+    "year": 2009,
+    "journal": "Infoscience (Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne)",
+    "doi_or_url": "https://doi.org/10.48550/arxiv.0912.3995",
+    "citation_count": 1049,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2166566250",
+    "title": "Information-Theoretic Regret Bounds for Gaussian Process Optimization in the Bandit Setting",
+    "authors": [
+      "Niranjan Srinivas",
+      "Andreas Krause",
+      "Sham M. Kakade",
+      "Matthias Seeger"
+    ],
+    "year": 2012,
+    "journal": "IEEE Transactions on Information Theory",
+    "doi_or_url": "https://doi.org/10.1109/tit.2011.2182033",
+    "citation_count": 932,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2788657169",
+    "title": "Pupillometry: Psychology, Physiology, and Function",
+    "authors": [
+      "Sebastiaan Math\u00f4t"
+    ],
+    "year": 2018,
+    "journal": "Journal of Cognition",
+    "doi_or_url": "https://doi.org/10.5334/joc.18",
+    "citation_count": 853,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2300445845",
+    "title": "Interactive machine learning for health informatics: when do we need the human-in-the-loop?",
+    "authors": [
+      "Andreas Holzinger"
+    ],
+    "year": 2016,
+    "journal": "Brain Informatics",
+    "doi_or_url": "https://doi.org/10.1007/s40708-016-0042-6",
+    "citation_count": 850,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2117104656",
+    "title": "Pupil diameter tracks changes in control state predicted by the adaptive gain theory of locus coeruleus function",
+    "authors": [
+      "Mark S. Gilzenrat",
+      "Sander Nieuwenhuis",
+      "Marieke Jepma",
+      "Jonathan D. Cohen"
+    ],
+    "year": 2010,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/cabn.10.2.252",
+    "citation_count": 840,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2145425406",
+    "title": "Social Learning in Animals: Empirical Studies and Theoretical Models",
+    "authors": [
+      "Bennett G. Galef",
+      "Kevin N. Laland"
+    ],
+    "year": 2005,
+    "journal": "BioScience",
+    "doi_or_url": "https://doi.org/10.1641/0006-3568(2005)055[0489:sliaes]2.0.co;2",
+    "citation_count": 650,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2916338083",
+    "title": "Active learning in materials science with emphasis on adaptive sampling using uncertainties for targeted design",
+    "authors": [
+      "Turab Lookman",
+      "Prasanna V. Balachandran",
+      "Dezhen Xue",
+      "Ruihao Yuan"
+    ],
+    "year": 2019,
+    "journal": "npj Computational Materials",
+    "doi_or_url": "https://doi.org/10.1038/s41524-019-0153-8",
+    "citation_count": 630,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2787933113",
+    "title": "DRN",
+    "authors": [
+      "Guanjie Zheng",
+      "Fuzheng Zhang",
+      "Zihan Zheng",
+      "Yang Xiang",
+      "Nicholas Jing Yuan",
+      "Xing Xie",
+      "Zhenhui Li"
+    ],
+    "year": 2018,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.1145/3178876.3185994",
+    "citation_count": 621,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3112379500",
+    "title": "6G for Vehicle-to-Everything (V2X) Communications: Enabling Technologies, Challenges, and Opportunities",
+    "authors": [
+      "Md. Noor\u2010A\u2010Rahim",
+      "Zilong Liu",
+      "Haeyoung Lee",
+      "Mohammad Omar Khyam",
+      "Jianhua He",
+      "Dirk Pesch",
+      "Klaus Moessner",
+      "Walid Saad",
+      "H. Vincent Poor"
+    ],
+    "year": 2022,
+    "journal": "Proceedings of the IEEE",
+    "doi_or_url": "https://doi.org/10.1109/jproc.2022.3173031",
+    "citation_count": 596,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3179283102",
+    "title": "Evolution of Non-Terrestrial Networks From 5G to 6G: A Survey",
+    "authors": [
+      "Mohammad Mahdi Azari",
+      "Sourabh Solanki",
+      "Symeon Chatzinotas",
+      "Oltjon Kodheli",
+      "Hazem Sallouha",
+      "Achiel Colpaert",
+      "Jes\u00fas Fabi\u00e1n Mendoza Montoya",
+      "Sofie Pollin",
+      "Alireza Haqiqatnejad",
+      "Arsham Mostaani",
+      "Eva Lagunas",
+      "Bj\u00f6rn Ottersten"
+    ],
+    "year": 2022,
+    "journal": "IEEE Communications Surveys & Tutorials",
+    "doi_or_url": "https://doi.org/10.1109/comst.2022.3199901",
+    "citation_count": 546,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2968764495",
+    "title": "Spectrum Sharing in Vehicular Networks Based on Multi-Agent Reinforcement Learning",
+    "authors": [
+      "Le Liang",
+      "Hao Ye",
+      "Geoffrey Ye Li"
+    ],
+    "year": 2019,
+    "journal": "IEEE Journal on Selected Areas in Communications",
+    "doi_or_url": "https://doi.org/10.1109/jsac.2019.2933962",
+    "citation_count": 523,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3008967825",
+    "title": "Deep learning enabled inverse design in nanophotonics",
+    "authors": [
+      "Sunae So",
+      "Trevon Badloe",
+      "Jaebum Noh",
+      "Jorge Bravo\u2010Abad",
+      "Junsuk Rho"
+    ],
+    "year": 2020,
+    "journal": "Nanophotonics",
+    "doi_or_url": "https://doi.org/10.1515/nanoph-2019-0474",
+    "citation_count": 520,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2100218206",
+    "title": "OpenTuner",
+    "authors": [
+      "Jason Ansel",
+      "Shoaib Kamil",
+      "Kalyan Veeramachaneni",
+      "Jonathan Ragan\u2010Kelley",
+      "Jeffrey Bosboom",
+      "Una-May O\u2019Reilly",
+      "Saman Amarasinghe"
+    ],
+    "year": 2014,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.1145/2628071.2628092",
+    "citation_count": 509,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2052398297",
+    "title": "Uncertainty in perception and the Hierarchical Gaussian Filter",
+    "authors": [
+      "Christoph Mathys",
+      "Ekaterina I. Lomakina",
+      "Jean Daunizeau",
+      "Sandra Iglesias",
+      "Kay H. Brodersen",
+      "Karl Friston",
+      "Klaas \u0395. Stephan"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2014.00825",
+    "citation_count": 503,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2897661175",
+    "title": "Reinforcement learning for control: Performance, stability, and deep approximators",
+    "authors": [
+      "Lucian Bu\u015foniu",
+      "Tim de Bruin",
+      "Domagoj Toli\u0107",
+      "Jens Kober",
+      "Ivana Palunko"
+    ],
+    "year": 2018,
+    "journal": "Annual Reviews in Control",
+    "doi_or_url": "https://doi.org/10.1016/j.arcontrol.2018.09.005",
+    "citation_count": 438,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3037880470",
+    "title": "Artificial Intelligence and Marketing: Pitfalls and Opportunities",
+    "authors": [
+      "Arnaud De Bruyn",
+      "Vijay Viswanathan",
+      "Yean Shan Beh",
+      "J\u00fcrgen Kai-Uwe Brock",
+      "Florian von Wangenheim"
+    ],
+    "year": 2020,
+    "journal": "Journal of Interactive Marketing",
+    "doi_or_url": "https://doi.org/10.1016/j.intmar.2020.04.007",
+    "citation_count": 430,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2763920787",
+    "title": "Simulation optimization: a review of algorithms and applications",
+    "authors": [
+      "Satyajith Amaran",
+      "Nikolaos V. Sahinidis",
+      "Bikram Sharda",
+      "Scott J. Bury"
+    ],
+    "year": 2015,
+    "journal": "Annals of Operations Research",
+    "doi_or_url": "https://doi.org/10.1007/s10479-015-2019-x",
+    "citation_count": 429,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3123482145",
+    "title": "Dynamic pricing and learning:Historical origins, current research, and new directions",
+    "authors": [
+      "Arnoud V. den Boer"
+    ],
+    "year": 2015,
+    "journal": "University of Twente Research Information",
+    "doi_or_url": "https://doi.org/10.1016/j.sorms.2015.03.001",
+    "citation_count": 429,
+    "is_high_impact": false,
+    "open_access": false,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3160537436",
+    "title": "A Survey on Causal Inference",
+    "authors": [
+      "Liuyi Yao",
+      "Zhixuan Chu",
+      "Sheng Li",
+      "Yaliang Li",
+      "Jing Gao",
+      "Aidong Zhang"
+    ],
+    "year": 2021,
+    "journal": "ACM Transactions on Knowledge Discovery from Data",
+    "doi_or_url": "https://doi.org/10.1145/3444944",
+    "citation_count": 424,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3097904695",
+    "title": "Artificial intelligence in recommender systems",
+    "authors": [
+      "Qian Zhang",
+      "Jie L\u00fc",
+      "Yaochu Jin"
+    ],
+    "year": 2020,
+    "journal": "Complex & Intelligent Systems",
+    "doi_or_url": "https://doi.org/10.1007/s40747-020-00212-w",
+    "citation_count": 409,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2004014356",
+    "title": "Reinforcement Learning Signals in the Human Striatum Distinguish Learners from Nonlearners during Reward-Based Decision Making",
+    "authors": [
+      "Tom Sch\u00f6nberg",
+      "Nathaniel D. Daw",
+      "Daphna Joel",
+      "John P. O\u2019Doherty"
+    ],
+    "year": 2007,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2496-07.2007",
+    "citation_count": 406,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1480330138",
+    "title": "Bayesian Optimization in a Billion Dimensions via Random Embeddings",
+    "authors": [
+      "Ziyu Wang",
+      "Frank Hutter",
+      "Masrour Zoghi",
+      "David S. Matheson",
+      "Nando De Feitas"
+    ],
+    "year": 2016,
+    "journal": "Journal of Artificial Intelligence Research",
+    "doi_or_url": "https://doi.org/10.1613/jair.4806",
+    "citation_count": 364,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2473283431",
+    "title": "Data Collection and Wireless Communication in Internet of Things (IoT) Using Economic Analysis and Pricing Models: A Survey",
+    "authors": [
+      "Nguyen Cong Luong",
+      "Dinh Thai Hoang",
+      "Ping Wang",
+      "Dusit Niyato",
+      "Dong In Kim",
+      "Zhu Han"
+    ],
+    "year": 2016,
+    "journal": "IEEE Communications Surveys & Tutorials",
+    "doi_or_url": "https://doi.org/10.1109/comst.2016.2582841",
+    "citation_count": 351,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4304695089",
+    "title": "In\u00a0vitro neurons learn and exhibit sentience when embodied in a simulated game-world",
+    "authors": [
+      "Brett J. Kagan",
+      "Andy C. Kitchen",
+      "Nhi T. Tran",
+      "Forough Habibollahi",
+      "Moein Khajehnejad",
+      "Bradyn J. Parker",
+      "Anjali Bhat",
+      "Ben Rollo",
+      "Adeel Razi",
+      "Karl Friston"
+    ],
+    "year": 2022,
+    "journal": "Neuron",
+    "doi_or_url": "https://doi.org/10.1016/j.neuron.2022.09.001",
+    "citation_count": 332,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3000699369",
+    "title": "Optical Wireless Hybrid Networks: Trends, Opportunities, Challenges, and Research Directions",
+    "authors": [
+      "Mostafa Zaman Chowdhury",
+      "Moh. Khalid Hasan",
+      "Md. Shahjalal",
+      "Md. Tanvir Hossan",
+      "Yeong Min Jang"
+    ],
+    "year": 2020,
+    "journal": "IEEE Communications Surveys & Tutorials",
+    "doi_or_url": "https://doi.org/10.1109/comst.2020.2966855",
+    "citation_count": 332,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1606056663",
+    "title": "Ad Hoc Autonomous Agent Teams: Collaboration without Pre-Coordination",
+    "authors": [
+      "Peter Stone",
+      "Gal A. Kaminka",
+      "Sarit Kraus",
+      "Jeffrey S. Rosenschein"
+    ],
+    "year": 2010,
+    "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "doi_or_url": "https://doi.org/10.1609/aaai.v24i1.7529",
+    "citation_count": 320,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1523943095",
+    "title": "Automated Personalized Feedback for Physical Activity and Dietary Behavior Change With Mobile Phones: A Randomized Controlled Trial on Adults",
+    "authors": [
+      "Mashfiqui Rabbi",
+      "Angela Fidler Pfammatter",
+      "Mi Zhang",
+      "Bonnie Spring",
+      "Tanzeem Choudhury"
+    ],
+    "year": 2015,
+    "journal": "JMIR mhealth and uhealth",
+    "doi_or_url": "https://doi.org/10.2196/mhealth.4160",
+    "citation_count": 311,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2041584829",
+    "title": "Optimal interdependence between networks for the evolution of cooperation",
+    "authors": [
+      "Zhen Wang",
+      "Attila Szolnoki",
+      "Matja\u017e Perc"
+    ],
+    "year": 2013,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/srep02470",
+    "citation_count": 308,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2043002652",
+    "title": "Personalizing persuasive technologies: Explicit and implicit personalization using persuasion profiles",
+    "authors": [
+      "Maurits Kaptein",
+      "Panos Markopoulos",
+      "Boris de Ruyter",
+      "Emile Aarts"
+    ],
+    "year": 2015,
+    "journal": "International Journal of Human-Computer Studies",
+    "doi_or_url": "https://doi.org/10.1016/j.ijhcs.2015.01.004",
+    "citation_count": 303,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2398690976",
+    "title": "Online Task Assignment in Crowdsourcing Markets",
+    "authors": [
+      "Chien-Ju Ho",
+      "Jennifer Wortman Vaughan"
+    ],
+    "year": 2021,
+    "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "doi_or_url": "https://doi.org/10.1609/aaai.v26i1.8120",
+    "citation_count": 298,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2129300218",
+    "title": "Dopamine restores reward prediction errors in old age",
+    "authors": [
+      "Rumana Chowdhury",
+      "Marc Guitart\u2010Masip",
+      "Christian Lambert",
+      "Peter Dayan",
+      "Quentin J. M. Huys",
+      "Emrah D\u00fczel",
+      "Raymond J. Dolan"
+    ],
+    "year": 2013,
+    "journal": "Nature Neuroscience",
+    "doi_or_url": "https://doi.org/10.1038/nn.3364",
+    "citation_count": 294,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2027554764",
+    "title": "Risk, Unexpected Uncertainty, and Estimation Uncertainty: Bayesian Learning in Unstable Settings",
+    "authors": [
+      "\u00c9lise Payzan-LeNestour",
+      "Peter Bossaerts"
+    ],
+    "year": 2011,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1001048",
+    "citation_count": 287,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4391250546",
+    "title": "Vertical Federated Learning: Concepts, Advances, and Challenges",
+    "authors": [
+      "Yang Liu",
+      "Yan Kang",
+      "Tianyuan Zou",
+      "Yanhong Pu",
+      "Yuanqin He",
+      "Xiaozhou Ye",
+      "Ye Ouyang",
+      "Ya-Qin Zhang",
+      "Qiang Yang"
+    ],
+    "year": 2024,
+    "journal": "IEEE Transactions on Knowledge and Data Engineering",
+    "doi_or_url": "https://doi.org/10.1109/tkde.2024.3352628",
+    "citation_count": 276,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2083058253",
+    "title": "Serotonin Selectively Modulates Reward Value in Human Decision-Making",
+    "authors": [
+      "Ben Seymour",
+      "Nathaniel D. Daw",
+      "Jonathan P. Roiser",
+      "Peter Dayan",
+      "Raymond J. Dolan"
+    ],
+    "year": 2012,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0053-12.2012",
+    "citation_count": 267,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3011974631",
+    "title": "Basic Enhancement Strategies When Using Bayesian Optimization for Hyperparameter Tuning of Deep Neural Networks",
+    "authors": [
+      "Hyunghun Cho",
+      "Yong-Jin Kim",
+      "Eunjung Lee",
+      "Daeyoung Choi",
+      "Yongjae Lee",
+      "Wonjong Rhee"
+    ],
+    "year": 2020,
+    "journal": "IEEE Access",
+    "doi_or_url": "https://doi.org/10.1109/access.2020.2981072",
+    "citation_count": 261,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2003204349",
+    "title": "Early Modern Ottoman Coffeehouse Culture and the Formation of the Consumer Subject",
+    "authors": [
+      "Em\u0131neg\u00fcl Karababa",
+      "G\u00fcl\u0131z Ger"
+    ],
+    "year": 2010,
+    "journal": "Journal of Consumer Research",
+    "doi_or_url": "https://doi.org/10.1086/656422",
+    "citation_count": 257,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2892266804",
+    "title": "Computational mechanisms of curiosity and goal-directed exploration",
+    "authors": [
+      "Philipp Schwartenbeck",
+      "Johannes Passecker",
+      "Tobias U. Hauser",
+      "Thomas H. B. FitzGerald",
+      "Martin Kronbichler",
+      "Karl Friston"
+    ],
+    "year": 2019,
+    "journal": "eLife",
+    "doi_or_url": "https://doi.org/10.7554/elife.41703",
+    "citation_count": 255,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2170183710",
+    "title": "The description\u2013experience gap in risky choice: the role of sample size and experienced probabilities",
+    "authors": [
+      "Robin Hau",
+      "Timothy J. Pleskac",
+      "J\u00fcrgen Kiefer",
+      "Ralph Hertwig"
+    ],
+    "year": 2008,
+    "journal": "Journal of Behavioral Decision Making",
+    "doi_or_url": "https://doi.org/10.1002/bdm.598",
+    "citation_count": 255,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3124729337",
+    "title": "Foundations of entrepreneurial strategy",
+    "authors": [
+      "Joshua S. Gans",
+      "Scott Stern",
+      "Jane Wu"
+    ],
+    "year": 2019,
+    "journal": "Strategic Management Journal",
+    "doi_or_url": "https://doi.org/10.1002/smj.3010",
+    "citation_count": 244,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W76331760",
+    "title": "Collaborative hyperparameter tuning",
+    "authors": [
+      "R\u00e9mi Bardenet",
+      "M\u00e1ty\u00e1s Brendel",
+      "Bal zs K gl",
+      "Mich le Sebag"
+    ],
+    "year": 2013,
+    "journal": "SPIRE - Sciences Po Institutional REpository",
+    "doi_or_url": "https://openalex.org/W76331760",
+    "citation_count": 239,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2510619540",
+    "title": "When Does Model-Based Control Pay Off?",
+    "authors": [
+      "Wouter Kool",
+      "Fiery Cushman",
+      "Samuel J. Gershman"
+    ],
+    "year": 2016,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1005090",
+    "citation_count": 238,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3099098707",
+    "title": "A Gentle Introduction to Reinforcement Learning and its Application in Different Fields",
+    "authors": [
+      "Muddasar Naeem",
+      "Syed Tahir Hussain Rizvi",
+      "Antonio Coronato"
+    ],
+    "year": 2020,
+    "journal": "IEEE Access",
+    "doi_or_url": "https://doi.org/10.1109/access.2020.3038605",
+    "citation_count": 233,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2073158860",
+    "title": "Role of Striatum in Updating Values of Chosen Actions",
+    "authors": [
+      "Hoseok Kim",
+      "Jung Hoon Sul",
+      "Namjung Huh",
+      "Daeyeol Lee",
+      "Min Whan Jung"
+    ],
+    "year": 2009,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2728-09.2009",
+    "citation_count": 231,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2793255598",
+    "title": "Fake News Detection in Social Networks via Crowd Signals",
+    "authors": [
+      "Sebastian Tschiatschek",
+      "Adish Singla",
+      "Manuel Gomez-Rodriguez",
+      "Arpit Merchant",
+      "Andreas Krause"
+    ],
+    "year": 2018,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.1145/3184558.3188722",
+    "citation_count": 229,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

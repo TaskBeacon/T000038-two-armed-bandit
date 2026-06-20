@@ -22,6 +22,8 @@ This task implements a two-option bandit paradigm. On each trial, participants c
 
 ## 2. Task Flow
 
+![Task Flow](task_flow.png)
+
 ### Block-Level Flow
 
 | Step | Description |

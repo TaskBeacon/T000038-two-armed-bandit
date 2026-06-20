@@ -42,6 +42,7 @@ task:
   reward_loss: 0
   delta: 10
   seed_mode: same_across_sub
+  overall_seed: 38038
 timing:
   pre_choice_fixation_duration: 0.3
   bandit_choice_duration: 1.2
